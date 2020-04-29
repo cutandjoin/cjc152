@@ -1,7 +1,8 @@
-REM CJC sw=2,bt=1,cu=1,dd=1,em=1,it=1,ms=1,pv=1
-REM DIRINDEX 1\2,1\3,1\4,1\5,1\6,1\7,1\8
-REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder07
+CJM sw=2,bt=1,cu=1,dd=1,em=1,it=1,ms=1,pv=1
+DIRINDEX 1\2,1\3,1\4,1\5,1\6,1\7,1\8
+DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder07
 
+#
 01_Ch1_IntheMorning_Words.mp3
 00:00:00 0:
 00:00:29 8:cjc152_0001
@@ -104,6 +105,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:38:10 0:
 01:38:42 2:cjc152_0050
 01:40:35 0:
+#
 02_Ch1_IntheMorning_Behavier.mp3
 00:00:00 0:
 00:00:35 8:cjc152_0051
@@ -286,6 +288,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 04:39:26 0:
 04:40:12 3:cjc152_0140
 04:41:41 0:
+#
 03_Ch1_IntheMorning_Tweets.mp3
 00:00:00 0:
 00:00:27 8:cjc152_0141
@@ -436,6 +439,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 05:48:29 0:
 05:49:29 4:cjc152_0214
 05:54:00 0:
+#
 04_Ch1_IntheMorning_1-TurnDialogue.mp3
 00:00:00 0:
 00:00:19 8:cjc152_0215
@@ -482,6 +486,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:20:55 0:
 01:21:12 5:cjc152_0236
 01:23:62 0:
+#
 05_Ch1_IntheMorning_Skit.mp3
 00:00:00 0:
 00:00:37 8:cjc152_0237
@@ -518,6 +523,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:21:72 6:cjc152_0265
 01:23:24 6:cjc152_0266
 01:25:39 0:
+#
 06_Ch2_Commuting_Words.mp3
 00:00:00 0:
 00:00:27 8:cjc152_0267
@@ -616,6 +622,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:31:61 0:
 01:32:15 2:cjc152_0314
 01:33:15 0:
+#
 07_Ch2_Commuting_Behavier.mp3
 00:00:00 0:
 00:00:11 8:cjc152_0315
@@ -754,6 +761,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 04:07:59 0:
 04:08:51 3:cjc152_0382
 04:11:49 0:
+#
 08_Ch2_Commuting_Tweets.mp3
 00:00:00 0:
 00:00:43 8:cjc152_0383
@@ -928,6 +936,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 07:16:06 0:
 07:17:00 4:cjc152_0468
 07:20:24 0:
+#
 09_Ch2_Commuting_1-TurnDialogue.mp3
 00:00:00 0:
 00:00:31 8:cjc152_0469
@@ -974,6 +983,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:19:52 0:
 01:20:16 5:cjc152_0490
 01:24:04 0:
+#
 10_Ch2_Commuting_Skit.mp3
 00:00:00 0:
 00:00:66 8:cjc152_0491
@@ -1008,6 +1018,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:13:24 6:cjc152_0517
 01:14:43 6:cjc152_0518
 01:19:74 0:
+#
 11_Ch3_Working_Words.mp3
 00:00:00 0:
 00:00:31 8:cjc152_0519
@@ -1106,6 +1117,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:30:69 0:
 01:31:26 2:cjc152_0566
 01:32:55 0:
+#
 12_Ch3_Working_Behavier.mp3
 00:00:00 0:
 00:00:29 8:cjc152_0567
@@ -1288,6 +1300,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 05:21:15 0:
 05:22:06 3:cjc152_0656
 05:24:01 0:
+#
 13_Ch3_Working_Tweets.mp3
 00:00:00 0:
 00:00:37 8:cjc152_0657
@@ -1486,6 +1499,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 07:53:15 0:
 07:54:22 4:cjc152_0754
 07:57:23 0:
+#
 14_Ch3_Working_1-TurnDialogue.mp3
 00:00:00 0:
 00:00:29 8:cjc152_0755
@@ -1532,6 +1546,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:16:56 0:
 01:17:20 5:cjc152_0776
 01:22:35 0:
+#
 15_Ch3_Working_Skit.mp3
 00:00:00 0:
 00:00:37 8:cjc152_0777
@@ -1564,6 +1579,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:12:05 6:cjc152_0801
 01:17:02 6:cjc152_0802
 01:18:62 0:
+#
 16_Ch4_Smartphone_PCLife_Words.mp3
 00:00:00 0:
 00:00:33 8:cjc152_0803
@@ -1678,6 +1694,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:43:74 0:
 01:44:28 2:cjc152_0858
 01:45:44 0:
+#
 17_Ch4_Smartphone_PCLife_Behavier.mp3
 00:00:00 0:
 00:00:33 8:cjc152_0859
@@ -1852,6 +1869,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 05:04:65 0:
 05:05:61 3:cjc152_0944
 05:07:62 0:
+#
 18_Ch4_Smartphone_PCLife_Tweets.mp3
 00:00:00 0:
 00:00:11 8:cjc152_0945
@@ -2070,6 +2088,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 08:59:18 0:
 09:00:12 4:cjc152_1052
 09:05:46 0:
+#
 19_Ch4_Smartphone_PCLife_1-TurnDialogue.mp3
 00:00:00 0:
 00:00:17 8:cjc152_1053
@@ -2116,6 +2135,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:29:07 0:
 01:29:48 5:cjc152_1074
 01:33:68 0:
+#
 20_Ch4_Smartphone_PCLife_Skit.mp3
 00:00:00 0:
 00:00:47 8:cjc152_1075
@@ -2148,6 +2168,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:18:56 6:cjc152_1099
 01:22:35 6:cjc152_1100
 01:24:41 0:
+#
 21_Ch5_Housework_Words.mp3
 00:00:00 0:
 00:00:31 8:cjc152_1101
@@ -2270,6 +2291,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 02:02:24 0:
 02:02:56 2:cjc152_1160
 02:04:17 0:
+#
 22_Ch5_Housework_Behavier.mp3
 00:00:00 0:
 00:00:25 8:cjc152_1161
@@ -2452,6 +2474,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 05:22:51 0:
 05:23:45 3:cjc152_1250
 05:26:33 0:
+#
 23_Ch5_Housework_Tweets.mp3
 00:00:00 0:
 00:00:03 8:cjc152_1251
@@ -2674,6 +2697,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 08:54:50 0:
 08:55:46 4:cjc152_1360
 08:58:15 0:
+#
 24_Ch5_Housework_1-TurnDialogue.mp3
 00:00:00 0:
 00:00:05 8:cjc152_1361
@@ -2720,6 +2744,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:20:57 0:
 01:21:10 5:cjc152_1382
 01:25:09 0:
+#
 25_Ch5_Housework_Skit.mp3
 00:00:00 0:
 00:00:17 8:cjc152_1383
@@ -2756,6 +2781,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:31:67 6:cjc152_1411
 01:33:03 6:cjc152_1412
 01:34:20 0:
+#
 26_Ch6_RelaxingatHome_Words.mp3
 00:00:00 0:
 00:00:15 8:cjc152_1413
@@ -2866,6 +2892,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:44:03 0:
 01:44:34 2:cjc152_1466
 01:45:34 0:
+#
 27_Ch6_RelaxingatHome_Behavier.mp3
 00:00:00 0:
 00:00:31 8:cjc152_1467
@@ -3004,6 +3031,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 04:12:27 0:
 04:13:21 3:cjc152_1534
 04:15:73 0:
+#
 28_Ch6_RelaxingatHome_Tweets.mp3
 00:00:00 0:
 00:00:01 8:cjc152_1535
@@ -3174,6 +3202,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 07:00:07 0:
 07:01:03 4:cjc152_1618
 07:03:68 0:
+#
 29_Ch6_RelaxingatHome_1-TurnDialogue.mp3
 00:00:00 0:
 00:00:13 8:cjc152_1619
@@ -3220,6 +3249,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:16:18 0:
 01:16:56 5:cjc152_1640
 01:17:71 0:
+#
 30_Ch6_RelaxingatHome_Skit.mp3
 00:00:00 0:
 00:00:09 8:cjc152_1641
@@ -3252,6 +3282,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:09:42 6:cjc152_1665
 01:12:13 6:cjc152_1666
 01:16:20 0:
+#
 31_Ch7_Health_Beauty_Words.mp3
 00:00:00 0:
 00:00:09 8:cjc152_1667
@@ -3374,6 +3405,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 02:07:69 0:
 02:08:23 2:cjc152_1726
 02:09:62 0:
+#
 32_Ch7_Health_Beauty_Behavier.mp3
 00:00:00 0:
 00:00:13 8:cjc152_1727
@@ -3556,6 +3588,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 05:13:50 0:
 05:14:42 3:cjc152_1816
 05:17:60 0:
+#
 33_Ch7_Health_Beauty_Tweets.mp3
 00:00:00 0:
 00:00:07 8:cjc152_1817
@@ -3778,6 +3811,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 09:09:14 0:
 09:10:24 4:cjc152_1926
 09:15:42 0:
+#
 34_Ch7_Health_Beauty_1-TurnDialogue.mp3
 00:00:00 0:
 00:00:21 8:cjc152_1927
@@ -3824,6 +3858,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:25:04 0:
 01:25:33 5:cjc152_1948
 01:27:65 0:
+#
 35_Ch7_Health_Beauty_Skit.mp3
 00:00:00 0:
 00:00:37 8:cjc152_1949
@@ -3854,6 +3889,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:27:63 6:cjc152_1971
 01:30:18 6:cjc152_1972
 01:34:26 0:
+#
 36_Ch8_FavoriteThingstoDo_Words.mp3
 00:00:00 0:
 00:01:05 8:cjc152_1973
@@ -3948,6 +3984,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:30:13 0:
 01:30:36 2:cjc152_2018
 01:31:43 0:
+#
 37_Ch8_FavoriteThingstoDo_Behavier.mp3
 00:00:00 0:
 00:00:31 8:cjc152_2019
@@ -4086,6 +4123,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 04:05:19 0:
 04:06:13 3:cjc152_2086
 04:07:63 0:
+#
 38_Ch8_FavoriteThingstoDo_Tweets.mp3
 00:00:00 0:
 00:00:09 8:cjc152_2087
@@ -4260,6 +4298,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 07:07:11 0:
 07:08:11 4:cjc152_2172
 07:14:27 0:
+#
 39_Ch8_FavoriteThingstoDo_1-TurnDialogue.mp3
 00:00:00 0:
 00:00:17 8:cjc152_2173
@@ -4306,6 +4345,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:25:57 0:
 01:26:11 5:cjc152_2194
 01:31:06 0:
+#
 40_Ch8_FavoriteThingstoDo_Skit.mp3
 00:00:00 0:
 00:00:35 8:cjc152_2195
@@ -4333,6 +4373,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:16:54 6:cjc152_2214
 01:17:67 6:cjc152_2215
 01:20:32 0:
+#
 41_Ch9_EatingOut_Shopping_Words.mp3
 00:00:00 0:
 00:00:29 8:cjc152_2216
@@ -4423,6 +4464,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:29:46 0:
 01:30:01 2:cjc152_2259
 01:30:71 0:
+#
 42_Ch9_EatingOut_Shopping_Behavier.mp3
 00:00:00 0:
 00:00:31 8:cjc152_2260
@@ -4641,6 +4683,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 06:37:00 0:
 06:37:71 3:cjc152_2367
 06:39:36 0:
+#
 43_Ch9_EatingOut_Shopping_Tweets.mp3
 00:00:00 0:
 00:00:66 8:cjc152_2368
@@ -4863,6 +4906,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 09:25:55 0:
 09:26:46 4:cjc152_2477
 09:29:62 0:
+#
 44_Ch9_EatingOut_Shopping_1-TurnDialogue.mp3
 00:00:00 0:
 00:00:07 8:cjc152_2478
@@ -4909,6 +4953,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:21:02 0:
 01:21:33 5:cjc152_2499
 01:26:11 0:
+#
 45_Ch9_EatingOut_Shopping_Skit.mp3
 00:00:00 0:
 00:00:43 8:cjc152_2500
@@ -4943,6 +4988,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:25:19 6:cjc152_2526
 01:28:71 6:cjc152_2527
 01:33:01 0:
+#
 46_Ch10_AtNight_Words.mp3
 00:00:00 0:
 00:00:01 8:cjc152_2528
@@ -5041,6 +5087,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:33:33 0:
 01:34:06 2:cjc152_2575
 01:35:26 0:
+#
 47_Ch10_AtNight_Behavier.mp3
 00:00:00 0:
 00:00:29 8:cjc152_2576
@@ -5179,6 +5226,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 03:50:69 0:
 03:51:60 3:cjc152_2643
 03:53:26 0:
+#
 48_Ch10_AtNight_Tweets.mp3
 00:00:00 0:
 00:00:33 8:cjc152_2644
@@ -5281,6 +5329,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 04:04:57 0:
 04:05:55 4:cjc152_2693
 04:08:20 0:
+#
 49_Ch10_AtNight_1-TurnDialogue.mp3
 00:00:00 0:
 00:00:29 8:cjc152_2694
@@ -5327,6 +5376,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:20:48 0:
 01:21:04 5:cjc152_2715
 01:23:30 0:
+#
 50_Ch10_AtNight_Skit.mp3
 00:00:00 0:
 00:00:45 8:cjc152_2716
@@ -5358,6 +5408,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:15:52 6:cjc152_2739
 01:16:48 6:cjc152_2740
 01:21:45 0:
+#
 51_madamada_Feeling.mp3
 00:00:00 0:
 00:00:66 8:cjc152_2741
@@ -5384,6 +5435,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:45:18 0:
 00:46:09 7:cjc152_2752
 00:49:49 0:
+#
 52_madamada_Relationship.mp3
 00:00:00 0:
 00:00:31 8:cjc152_2753
@@ -5414,6 +5466,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:02:05 0:
 01:02:69 7:cjc152_2766
 01:08:40 0:
+#
 53_madamada_Schedule.mp3
 00:00:00 0:
 00:00:25 8:cjc152_2767
@@ -5440,6 +5493,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:52:57 0:
 00:53:49 7:cjc152_2778
 00:56:43 0:
+#
 54_madamada_Dating.mp3
 00:00:00 0:
 00:00:29 8:cjc152_2779
@@ -5470,6 +5524,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:59:10 0:
 01:00:00 7:cjc152_2792
 01:02:57 0:
+#
 55_madamada_News.mp3
 00:00:00 0:
 00:00:29 8:cjc152_2793
@@ -5496,6 +5551,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:44:56 0:
 00:45:49 7:cjc152_2804
 00:50:25 0:
+#
 56_madamada_Generation.mp3
 00:00:00 0:
 00:00:41 8:cjc152_2805
@@ -5526,6 +5582,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:09:09 0:
 01:09:73 7:cjc152_2818
 01:13:28 0:
+#
 57_madamada_Event.mp3
 00:00:00 0:
 00:00:13 8:cjc152_2819
@@ -5576,6 +5633,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:45:20 0:
 01:46:25 7:cjc152_2842
 01:56:20 0:
+#
 58_madamada_Emargency.mp3
 00:00:00 0:
 00:00:29 8:cjc152_2843
@@ -5602,6 +5660,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:35:45 0:
 00:36:36 7:cjc152_2854
 00:40:44 0:
+#
 59_madamada_DisasterPrevention.mp3
 00:00:00 0:
 00:00:15 8:cjc152_2855
@@ -5632,6 +5691,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:01:64 0:
 01:02:55 7:cjc152_2868
 01:07:33 0:
+#
 01_Ch1_IntheMorning_Words.mp3
 00:00:00 0:
 00:00:29 8:cjc152_0001
@@ -5734,6 +5794,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:38:10 0:
 01:38:42 2:cjc152_0050
 01:40:35 0:
+#
 02_Ch1_IntheMorning_Behavier.mp3
 00:00:00 0:
 00:00:35 8:cjc152_0051
@@ -5916,6 +5977,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 04:39:26 0:
 04:40:12 3:cjc152_0140
 04:41:41 0:
+#
 03_Ch1_IntheMorning_Tweets.mp3
 00:00:00 0:
 00:00:27 8:cjc152_0141
@@ -6066,6 +6128,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 05:48:29 0:
 05:49:29 4:cjc152_0214
 05:54:00 0:
+#
 04_Ch1_IntheMorning_1-TurnDialogue.mp3
 00:00:00 0:
 00:00:19 8:cjc152_0215
@@ -6112,6 +6175,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:20:55 0:
 01:21:12 5:cjc152_0236
 01:23:62 0:
+#
 05_Ch1_IntheMorning_Skit.mp3
 00:00:00 0:
 00:00:37 8:cjc152_0237
@@ -6148,6 +6212,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:21:72 6:cjc152_0265
 01:23:24 6:cjc152_0266
 01:25:39 0:
+#
 05_Ch1_IntheMorning_Skit_E.mp3
 00:00:00 0:
 00:00:37 8:cjc152_0237 (2)
@@ -6184,6 +6249,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:21:72 6:cjc152_0265 (2)
 01:23:24 6:cjc152_0266 (2)
 01:25:39 0:
+#
 06_Ch2_Commuting_Words.mp3
 00:00:00 0:
 00:00:27 8:cjc152_0267
@@ -6282,6 +6348,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:31:61 0:
 01:32:15 2:cjc152_0314
 01:33:15 0:
+#
 07_Ch2_Commuting_Behavier.mp3
 00:00:00 0:
 00:00:11 8:cjc152_0315
@@ -6420,6 +6487,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 04:07:59 0:
 04:08:51 3:cjc152_0382
 04:11:49 0:
+#
 08_Ch2_Commuting_Tweets.mp3
 00:00:00 0:
 00:00:43 8:cjc152_0383
@@ -6594,6 +6662,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 07:16:06 0:
 07:17:00 4:cjc152_0468
 07:20:24 0:
+#
 09_Ch2_Commuting_1-TurnDialogue.mp3
 00:00:00 0:
 00:00:31 8:cjc152_0469
@@ -6640,6 +6709,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:19:52 0:
 01:20:16 5:cjc152_0490
 01:24:04 0:
+#
 10_Ch2_Commuting_Skit.mp3
 00:00:00 0:
 00:00:66 8:cjc152_0491
@@ -6674,6 +6744,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:13:24 6:cjc152_0517
 01:14:43 6:cjc152_0518
 01:19:74 0:
+#
 11_Ch3_Working_Words.mp3
 00:00:00 0:
 00:00:31 8:cjc152_0519
@@ -6772,6 +6843,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:30:69 0:
 01:31:26 2:cjc152_0566
 01:32:55 0:
+#
 12_Ch3_Working_Behavier.mp3
 00:00:00 0:
 00:00:29 8:cjc152_0567
@@ -6954,6 +7026,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 05:21:15 0:
 05:22:06 3:cjc152_0656
 05:24:01 0:
+#
 13_Ch3_Working_Tweets.mp3
 00:00:00 0:
 00:00:37 8:cjc152_0657
@@ -7152,6 +7225,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 07:53:15 0:
 07:54:22 4:cjc152_0754
 07:57:23 0:
+#
 14_Ch3_Working_1-TurnDialogue.mp3
 00:00:00 0:
 00:00:29 8:cjc152_0755
@@ -7198,6 +7272,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:16:56 0:
 01:17:20 5:cjc152_0776
 01:22:35 0:
+#
 15_Ch3_Working_Skit.mp3
 00:00:00 0:
 00:00:37 8:cjc152_0777
@@ -7230,6 +7305,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:12:05 6:cjc152_0801
 01:17:02 6:cjc152_0802
 01:18:62 0:
+#
 15_Ch3_Working_Skit_E.mp3
 00:00:00 0:
 00:00:37 8:cjc152_0777 (2)
@@ -7262,6 +7338,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:12:05 6:cjc152_0801 (2)
 01:17:02 6:cjc152_0802 (2)
 01:18:62 0:
+#
 16_Ch4_Smartphone_PCLife_Words.mp3
 00:00:00 0:
 00:00:33 8:cjc152_0803
@@ -7376,6 +7453,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:43:74 0:
 01:44:28 2:cjc152_0858
 01:45:44 0:
+#
 17_Ch4_Smartphone_PCLife_Behavier.mp3
 00:00:00 0:
 00:00:33 8:cjc152_0859
@@ -7550,6 +7628,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 05:04:65 0:
 05:05:61 3:cjc152_0944
 05:07:62 0:
+#
 18_Ch4_Smartphone_PCLife_Tweets.mp3
 00:00:00 0:
 00:00:11 8:cjc152_0945
@@ -7768,6 +7847,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 08:59:18 0:
 09:00:12 4:cjc152_1052
 09:05:46 0:
+#
 19_Ch4_Smartphone_PCLife_1-TurnDialogue.mp3
 00:00:00 0:
 00:00:17 8:cjc152_1053
@@ -7814,6 +7894,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:29:07 0:
 01:29:48 5:cjc152_1074
 01:33:68 0:
+#
 20_Ch4_Smartphone_PCLife_Skit.mp3
 00:00:00 0:
 00:00:47 8:cjc152_1075
@@ -7846,6 +7927,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:18:56 6:cjc152_1099
 01:22:35 6:cjc152_1100
 01:24:41 0:
+#
 20_Ch4_Smartphone_PCLife_Skit_E.mp3
 00:00:00 0:
 00:00:47 8:cjc152_1075 (2)
@@ -7878,6 +7960,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:18:56 6:cjc152_1099 (2)
 01:22:35 6:cjc152_1100 (2)
 01:24:41 0:
+#
 21_Ch5_Housework_Words.mp3
 00:00:00 0:
 00:00:31 8:cjc152_1101
@@ -8000,6 +8083,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 02:02:24 0:
 02:02:56 2:cjc152_1160
 02:04:17 0:
+#
 22_Ch5_Housework_Behavier.mp3
 00:00:00 0:
 00:00:25 8:cjc152_1161
@@ -8182,6 +8266,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 05:22:51 0:
 05:23:45 3:cjc152_1250
 05:26:33 0:
+#
 23_Ch5_Housework_Tweets.mp3
 00:00:00 0:
 00:00:03 8:cjc152_1251
@@ -8404,6 +8489,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 08:54:50 0:
 08:55:46 4:cjc152_1360
 08:58:15 0:
+#
 24_Ch5_Housework_1-TurnDialogue.mp3
 00:00:00 0:
 00:00:05 8:cjc152_1361
@@ -8450,6 +8536,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:20:57 0:
 01:21:10 5:cjc152_1382
 01:25:09 0:
+#
 25_Ch5_Housework_Skit.mp3
 00:00:00 0:
 00:00:17 8:cjc152_1383
@@ -8486,6 +8573,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:31:67 6:cjc152_1411
 01:33:03 6:cjc152_1412
 01:34:20 0:
+#
 25_Ch5_Housework_Skit_E.mp3
 00:00:00 0:
 00:00:17 8:cjc152_1383 (2)
@@ -8522,6 +8610,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:31:67 6:cjc152_1411 (2)
 01:33:03 6:cjc152_1412 (2)
 01:34:20 0:
+#
 26_Ch6_RelaxingatHome_Words.mp3
 00:00:00 0:
 00:00:15 8:cjc152_1413
@@ -8632,6 +8721,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:44:03 0:
 01:44:34 2:cjc152_1466
 01:45:34 0:
+#
 27_Ch6_RelaxingatHome_Behavier.mp3
 00:00:00 0:
 00:00:31 8:cjc152_1467
@@ -8770,6 +8860,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 04:12:27 0:
 04:13:21 3:cjc152_1534
 04:15:73 0:
+#
 28_Ch6_RelaxingatHome_Tweets.mp3
 00:00:00 0:
 00:00:01 8:cjc152_1535
@@ -8940,6 +9031,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 07:00:07 0:
 07:01:03 4:cjc152_1618
 07:03:68 0:
+#
 29_Ch6_RelaxingatHome_1-TurnDialogue.mp3
 00:00:00 0:
 00:00:13 8:cjc152_1619
@@ -8986,6 +9078,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:16:18 0:
 01:16:56 5:cjc152_1640
 01:17:71 0:
+#
 30_Ch6_RelaxingatHome_Skit.mp3
 00:00:00 0:
 00:00:09 8:cjc152_1641
@@ -9018,6 +9111,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:09:42 6:cjc152_1665
 01:12:13 6:cjc152_1666
 01:16:20 0:
+#
 30_Ch6_RelaxingatHome_Skit_E.mp3
 00:00:00 0:
 00:00:09 8:cjc152_1641 (2)
@@ -9050,6 +9144,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:09:42 6:cjc152_1665 (2)
 01:12:13 6:cjc152_1666 (2)
 01:16:20 0:
+#
 31_Ch7_Health_Beauty_Words.mp3
 00:00:00 0:
 00:00:09 8:cjc152_1667
@@ -9172,6 +9267,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 02:07:69 0:
 02:08:23 2:cjc152_1726
 02:09:62 0:
+#
 32_Ch7_Health_Beauty_Behavier.mp3
 00:00:00 0:
 00:00:13 8:cjc152_1727
@@ -9354,6 +9450,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 05:13:50 0:
 05:14:42 3:cjc152_1816
 05:17:60 0:
+#
 33_Ch7_Health_Beauty_Tweets.mp3
 00:00:00 0:
 00:00:07 8:cjc152_1817
@@ -9576,6 +9673,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 09:09:14 0:
 09:10:24 4:cjc152_1926
 09:15:42 0:
+#
 34_Ch7_Health_Beauty_1-TurnDialogue.mp3
 00:00:00 0:
 00:00:21 8:cjc152_1927
@@ -9622,6 +9720,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:25:04 0:
 01:25:33 5:cjc152_1948
 01:27:65 0:
+#
 35_Ch7_Health_Beauty_Skit.mp3
 00:00:00 0:
 00:00:37 8:cjc152_1949
@@ -9652,6 +9751,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:27:63 6:cjc152_1971
 01:30:18 6:cjc152_1972
 01:34:26 0:
+#
 35_Ch7_Health_Beauty_Skit_E.mp3
 00:00:00 0:
 00:00:37 8:cjc152_1949 (2)
@@ -9682,6 +9782,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:27:63 6:cjc152_1971 (2)
 01:30:18 6:cjc152_1972 (2)
 01:34:26 0:
+#
 36_Ch8_FavoriteThingstoDo_Words.mp3
 00:00:00 0:
 00:01:05 8:cjc152_1973
@@ -9776,6 +9877,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:30:13 0:
 01:30:36 2:cjc152_2018
 01:31:43 0:
+#
 37_Ch8_FavoriteThingstoDo_Behavier.mp3
 00:00:00 0:
 00:00:31 8:cjc152_2019
@@ -9914,6 +10016,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 04:05:19 0:
 04:06:13 3:cjc152_2086
 04:07:63 0:
+#
 38_Ch8_FavoriteThingstoDo_Tweets.mp3
 00:00:00 0:
 00:00:09 8:cjc152_2087
@@ -10088,6 +10191,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 07:07:11 0:
 07:08:11 4:cjc152_2172
 07:14:27 0:
+#
 39_Ch8_FavoriteThingstoDo_1-TurnDialogue.mp3
 00:00:00 0:
 00:00:17 8:cjc152_2173
@@ -10134,6 +10238,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:25:57 0:
 01:26:11 5:cjc152_2194
 01:31:06 0:
+#
 40_Ch8_FavoriteThingstoDo_Skit.mp3
 00:00:00 0:
 00:00:35 8:cjc152_2195
@@ -10161,6 +10266,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:16:54 6:cjc152_2214
 01:17:67 6:cjc152_2215
 01:20:32 0:
+#
 40_Ch8_FavoriteThingstoDo_Skit_E.mp3
 00:00:00 0:
 00:00:35 8:cjc152_2195 (2)
@@ -10188,6 +10294,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:16:54 6:cjc152_2214 (2)
 01:17:67 6:cjc152_2215 (2)
 01:20:32 0:
+#
 41_Ch9_EatingOut_Shopping_Words.mp3
 00:00:00 0:
 00:00:29 8:cjc152_2216
@@ -10278,6 +10385,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:29:46 0:
 01:30:01 2:cjc152_2259
 01:30:71 0:
+#
 42_Ch9_EatingOut_Shopping_Behavier.mp3
 00:00:00 0:
 00:00:31 8:cjc152_2260
@@ -10496,6 +10604,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 06:37:00 0:
 06:37:71 3:cjc152_2367
 06:39:36 0:
+#
 43_Ch9_EatingOut_Shopping_Tweets.mp3
 00:00:00 0:
 00:00:66 8:cjc152_2368
@@ -10718,6 +10827,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 09:25:55 0:
 09:26:46 4:cjc152_2477
 09:29:62 0:
+#
 44_Ch9_EatingOut_Shopping_1-TurnDialogue.mp3
 00:00:00 0:
 00:00:07 8:cjc152_2478
@@ -10764,6 +10874,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:21:02 0:
 01:21:33 5:cjc152_2499
 01:26:11 0:
+#
 45_Ch9_EatingOut_Shopping_Skit.mp3
 00:00:00 0:
 00:00:43 8:cjc152_2500
@@ -10798,6 +10909,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:25:19 6:cjc152_2526
 01:28:71 6:cjc152_2527
 01:33:01 0:
+#
 45_Ch9_EatingOut_Shopping_Skit_E.mp3
 00:00:00 0:
 00:00:43 8:cjc152_2500 (2)
@@ -10832,6 +10944,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:25:19 6:cjc152_2526 (2)
 01:28:71 6:cjc152_2527 (2)
 01:33:01 0:
+#
 46_Ch10_AtNight_Words.mp3
 00:00:00 0:
 00:00:01 8:cjc152_2528
@@ -10930,6 +11043,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:33:33 0:
 01:34:06 2:cjc152_2575
 01:35:26 0:
+#
 47_Ch10_AtNight_Behavier.mp3
 00:00:00 0:
 00:00:29 8:cjc152_2576
@@ -11068,6 +11182,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 03:50:69 0:
 03:51:60 3:cjc152_2643
 03:53:26 0:
+#
 48_Ch10_AtNight_Tweets.mp3
 00:00:00 0:
 00:00:33 8:cjc152_2644
@@ -11170,6 +11285,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 04:04:57 0:
 04:05:55 4:cjc152_2693
 04:08:20 0:
+#
 49_Ch10_AtNight_1-TurnDialogue.mp3
 00:00:00 0:
 00:00:29 8:cjc152_2694
@@ -11216,6 +11332,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:20:48 0:
 01:21:04 5:cjc152_2715
 01:23:30 0:
+#
 50_Ch10_AtNight_Skit.mp3
 00:00:00 0:
 00:00:45 8:cjc152_2716
@@ -11247,6 +11364,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:15:52 6:cjc152_2739
 01:16:48 6:cjc152_2740
 01:21:45 0:
+#
 50_Ch10_AtNight_Skit_E.mp3
 00:00:00 0:
 00:00:45 8:cjc152_2716 (2)
@@ -11278,6 +11396,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:15:52 6:cjc152_2739 (2)
 01:16:48 6:cjc152_2740 (2)
 01:21:45 0:
+#
 51_madamada_Feeling.mp3
 00:00:00 0:
 00:00:66 8:cjc152_2741
@@ -11304,6 +11423,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:45:18 0:
 00:46:09 7:cjc152_2752
 00:49:49 0:
+#
 52_madamada_Relationship.mp3
 00:00:00 0:
 00:00:31 8:cjc152_2753
@@ -11334,6 +11454,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:02:05 0:
 01:02:69 7:cjc152_2766
 01:08:40 0:
+#
 53_madamada_Schedule.mp3
 00:00:00 0:
 00:00:25 8:cjc152_2767
@@ -11360,6 +11481,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:52:57 0:
 00:53:49 7:cjc152_2778
 00:56:43 0:
+#
 54_madamada_Dating.mp3
 00:00:00 0:
 00:00:29 8:cjc152_2779
@@ -11390,6 +11512,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:59:10 0:
 01:00:00 7:cjc152_2792
 01:02:57 0:
+#
 55_madamada_News.mp3
 00:00:00 0:
 00:00:29 8:cjc152_2793
@@ -11416,6 +11539,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:44:56 0:
 00:45:49 7:cjc152_2804
 00:50:25 0:
+#
 56_madamada_Generation.mp3
 00:00:00 0:
 00:00:41 8:cjc152_2805
@@ -11446,6 +11570,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:09:09 0:
 01:09:73 7:cjc152_2818
 01:13:28 0:
+#
 57_madamada_Event.mp3
 00:00:00 0:
 00:00:13 8:cjc152_2819
@@ -11496,6 +11621,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 01:45:20 0:
 01:46:25 7:cjc152_2842
 01:56:20 0:
+#
 58_madamada_Emargency.mp3
 00:00:00 0:
 00:00:29 8:cjc152_2843
@@ -11522,6 +11648,7 @@ REM DIRNAME cjc152,folder01,folder02,folder03,folder04,folder05,folder06,folder0
 00:35:45 0:
 00:36:36 7:cjc152_2854
 00:40:44 0:
+#
 59_madamada_DisasterPrevention.mp3
 00:00:00 0:
 00:00:15 8:cjc152_2855
